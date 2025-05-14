@@ -1,0 +1,32 @@
+Project Title: Ecommerce Website
+
+Description:
+This is a fully functional multi-page ecommerce website built using HTML, CSS, and JavaScript. The website allows users to view products, add them to a cart, and proceed to checkout. It features responsive design and interactive cart functionality using JavaScript and localStorage.
+
+Main Features:
+- Responsive layout for mobile and desktop
+- Product listings on the homepage
+- Product detail page with Add to Cart button
+- Cart page that updates dynamically
+- Checkout form with basic validation
+- Persistent cart using localStorage
+- Navigation menu across all pages
+
+Technologies Used:
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+- Git & GitHub
+- Github Pages (for deployment)
+
+Deployment Link:
+🔗https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-Ryan-Kemboi/
+
+Instructions to View:
+1. Click the deployment link above to open the live site.
+2. Navigate between pages using the top navigation menu.
+3. Add items to the cart, view them in the cart page, and proceed to checkout.
+4. Fill out the form to simulate a completed purchase.
+
+Author: Ryan Kemboi
+Date: May 2025
